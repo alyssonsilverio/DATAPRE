@@ -1,4 +1,4 @@
 # DATAPRE
 Stroke Prediction Dataset / preprocessing + classification model
 
-The Stroke Prediction Dataset was uploaded by @fedeseriano on Kaggle. It was retrieved June 2022, and was not altered in any way until the data was preprocessed through Jupyter.
+The Stroke Prediction Dataset was uploaded by @fedeseriano on Kaggle. It was retrieved June 2022, and was not altered in any way until the data was preprocessed through Jupyter. Data gathering was not executed by the group in any way.
